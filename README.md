@@ -29,7 +29,7 @@ The dataset contains Flipkart sales information including:
 - Average order value
 - Discounts and profit metrics
 
-📸 Dashboard Preview
+📸 Dashboard Preview :
 Flipkart sales dashboard - Screenshot.png
 
  📈 Key Insights
