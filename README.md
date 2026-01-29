@@ -30,7 +30,7 @@ The dataset contains Flipkart sales information including:
 - Discounts and profit metrics
 
 📸 Dashboard Preview :
-Flipkart sales dashboard - Screenshot.png
+dashboard_screenshot.png
 
  📈 Key Insights
 - Identified top-performing product categories
